@@ -10,4 +10,7 @@ public class git {
         System.out.println("Hello,Git!");
         System.out.println("Hello,Git!");
     }
+    public static void method(){
+        System.out.println();
+    }
 }
